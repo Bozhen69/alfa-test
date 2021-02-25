@@ -1,0 +1,9 @@
+services:
+  external:
+    exchange:
+      url: https://openexchangerates.org/api
+      api-key: 86f5622c0571468d8bf206fbef9393a8
+      base-currency-name: RUB
+    gif:
+      url: https://api.giphy.com
+      api-key: qFgyozrBp9MKJnyI3JAfsItVbYP6K3i6
